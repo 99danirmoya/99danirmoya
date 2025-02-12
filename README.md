@@ -2,7 +2,7 @@
 
 - 🔭 I am currently studying the Master on The Internet of Things in Universidad Politécnica de Madrid
 - :bowtie: Former [`MediaLab_`](https://www.medialab-uniovi.es/) resident working on IoT projects using LPWAN (LoRa) and IEEE 802.11 (WiFi)
-- 🌱 I am currently learning C++, FreeRTOS, JAVA, Python, Docker, Node-RED, Git, and more!
+- 🌱 I am currently learning C++, FreeRTOS, JAVA, Python, Docker, Node-RED, Git, Digi XBee, BLE, and more!
 - 👯 I am looking to collaborate on IoT device prototyping
 - 🤔 I am looking for help with coding and electronic designing
 - 💬 Ask me about electronics, sensors, drones, domotics, 3D printing and more!
